@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="image_view_description">Captured Image</string>
+</resources>
